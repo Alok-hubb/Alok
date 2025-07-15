@@ -29,6 +29,6 @@ class Problem_1 {
 
     public static void main(String[] args) {
         Calculator calc1 = new Calculator(10, 5, "add");
-        calc1.calculate(); // Output: Result: 15.0
+        calc1.calculate(); 
     }
 }
